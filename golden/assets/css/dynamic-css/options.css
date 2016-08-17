@@ -1,0 +1,313 @@
+/*---------------------- Body --------------------------*/
+
+body {
+	background: url();
+}
+
+body p,
+.accordion-content,
+ul.tabs-content,
+.toggle_container,
+.meta-author,
+.meta-category,
+.tags,
+#sidebar .widget,
+#contact-details li {
+	color: #333333;
+	font-family: georgia;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.item h2 span,
+#featured p a:hover,
+.meta-category a:visited:hover,
+.meta-category a:hover,
+.article span a:hover,
+#single-article p a:hover,
+#single-article .tags a:hover,
+#contact-details a:hover,
+#latest-quotes blockquote,
+#single-project .client-details,
+#single-project .project-checklist {
+	color: #333333;
+	font-family: georgia;
+}
+
+blockquote cite,
+#footer-global[role="contentinfo"] .widget,
+.plan-price,
+.pricing-content ul li,
+.dropcap,
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea,
+select,
+.map-overlay,
+#response,
+.error {
+	font-family: georgia;
+}
+
+.pagination .page-numbers {	
+	font-family: georgia;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+#content p a:hover,
+#recent-news .homepage p a:hover,
+#recent-news .homepage .meta p a:hover,
+#meet-the-team .team-member p a:hover,
+#our-services p a:hover,
+#introduction a:hover,
+#post-content p a:hover,
+#comments .author a:hover,
+#comments .author a.comment-reply-link:hover,
+#comments .comment-edit-link:hover,
+.tags a:hover,
+#sidebar .widget a:hover {
+	color: #333333;
+}
+
+#content h1, 
+#content h2, 
+#content h3, 
+#content h4, 
+#content h5, 
+#content h6,
+#single-project h1, 
+#single-project h2, 
+#single-project h3, 
+#single-project h4, 
+#single-project h5, 
+#single-project h6,
+.post-title,
+#sidebar h1,
+#sidebar h2,
+#sidebar h3,
+#sidebar h4,
+#sidebar h5,
+#sidebar h6,
+#comments h4,
+.comment .author,
+#respond h3,
+.archive-title,
+#header-navigation[role="navigation"] li a,
+.flex-title,
+#introduction p,
+.section-heading h1,
+.project-item .overlay h2,
+#our-services h2,
+#meet-the-team h2,
+#recent-news .homepage h3,
+#footer-global[role="contentinfo"] h3,
+.feature-title,
+#skill li em,
+#content p.trigger a,
+ul.tabs li a,
+.must-log-in,
+.logged-in-as {
+	color: #51667f;
+	font-family: oswald;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.alert-red, .alert-blue, .alert-green, .alert-brown, .alert-teal, .alert-tan,
+.plan-title,
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+a.button.white,
+a.button.grey,
+a.button.black,
+a.button.red,
+a.button.blue,
+a.button.green,
+a.button.brown,
+a.button.teal,
+a.button.tan,
+a.read-more-btn,
+a.sign-up-btn,
+#latest-quotes cite,
+#filter li a {
+	font-family: oswald;
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+#header-navigation[role="navigation"] li a:hover,
+#header-navigation[role="navigation"] li a:focus,
+#header-navigation[role="navigation"] ul li.current-cat > a,
+#header-navigation[role="navigation"] ul li.current_page_item > a,
+#header-navigation[role="navigation"] ul li.current-menu-item > a,
+#filter li a:hover,
+#filter li .current {
+	color: #a41b18;
+}
+
+#latest-quotes cite,
+.expand,
+.plan-price,
+ul.tabs li a.active,
+ul.tabs li a:hover,
+.pagination .prev:hover,
+.pagination .next:hover,
+.project-nav li:hover,
+.project-nav .back:hover,
+#social-icons li a.twitter-link:hover,
+#social-icons li a.facebook-link:hover,
+#social-icons li a.dribbble-link:hover,
+#social-icons li a.forrst-link:hover,
+#social-icons li a.vimeo-link:hover,
+#social-icons li a.youtube-link:hover,
+#social-icons li a.flickr-link:hover,
+#social-icons li a.linkedin-link:hover,
+#social-icons li a.pinterest-link:hover,
+#social-icons li a.googleplus-link:hover,
+.pager a:hover {
+	background-color: #a41b18;
+}
+
+#back-to-top a:hover {
+	background-color: #a41b18!important;
+}
+
+blockquote {
+	border-left: 3px solid #a41b18!important;
+}
+
+a.read-more-btn,
+a.sign-up-btn,
+.button,
+button,
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+	background-color: #b43f4c;
+}
+
+#content p a,
+#post-content p a,
+#introduction a,
+.section-heading a,
+.service p a,
+.team-member p a,
+#recent-news .homepage .meta a,
+#recent-news .homepage p a,
+.post-excerpt a,
+.meta-author a,
+.meta-category a,
+#comments .author a,
+#comments .author a.comment-reply-link,
+#comments .comment-edit-link,
+.tags a,
+#sidebar .widget a,
+#contact-details li a,
+.pagination a:hover,
+.project-item .overlay h2 a:hover,
+#recent-news .homepage h3 a:hover,
+.post-title a:hover {
+	color: #b43f4c;
+}
+
+.pagination .current,
+.active-header,
+.inactive-header:hover,
+p.trigger a:hover,p.trigger.active a:hover,
+p.trigger.active a {
+	color: #b43f4c!important;
+}
+
+#footer-global[role="contentinfo"] a {
+	color: #a41b18;
+}
+	
+#our-services .service [class^="icon-"] {
+	color: #fff;
+}
+
+#meet-the-team .social-icons-small a [class^="icon-"] {
+	color: #a41b18;
+}
+
+.flex-title span,
+.feature-title span {
+	background-color: #000000;
+}
+
+.eventscompleted       { width:60%;  -moz-animation:eventscompleted 2s ease-out;       -webkit-animation:eventscompleted 2s ease-out;       }
+
+.veryhappycustomers        { width:90%;  -moz-animation:veryhappycustomers 2s ease-out;        -webkit-animation:veryhappycustomers 2s ease-out;        }
+
+.timespentrummaginginfleamarkets      { width:45%;  -moz-animation:timespentrummaginginfleamarkets 2s ease-out;      -webkit-animation:timespentrummaginginfleamarkets 2s ease-out;      }
+
+.timespentmakingcupsoftea   { width:20%;  -moz-animation:timespentmakingcupsoftea 2s ease-out;   -webkit-animation:timespentmakingcupsoftea 2s ease-out;   }
+
+@-moz-keyframes eventscompleted       { 0%  { width:0px;} 100%{ width:60%;}  }
+@-moz-keyframes veryhappycustomers        { 0%  { width:0px;} 100%{ width:90%;}  }
+@-moz-keyframes timespentrummaginginfleamarkets      { 0%  { width:0px;} 100%{ width:45%;}  }
+@-moz-keyframes timespentmakingcupsoftea   { 0%  { width:0px;} 100%{ width:20%;}  }
+
+@-webkit-keyframes eventscompleted       { 0%  { width:0px;} 100%{ width:60%;}  }
+@-webkit-keyframes veryhappycustomers        { 0%  { width:0px;} 100%{ width:90%;}  }
+@-webkit-keyframes timespentrummaginginfleamarkets      { 0%  { width:0px;} 100%{ width:45%;}  }
+@-webkit-keyframes timespentmakingcupsoftea   { 0%  { width:0px;} 100%{ width:20%;}  }
+
+
+/*---------------------- Custom CSS (Added from the Theme Options panel) --------------------------*/
+
+body {
+    background: #ffffff;
+}
+
+p.home-para strong{
+color: #51667f;
+font-family: oswald !important;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 45px;
+margin-bottom: 14px;
+letter-spacing: 1px;
+}
+
+p.common_style{ 
+font-family: 'Georgia' !important;
+font-size: 14px !important;
+text-transform: capitalize !important;
+color: #000000 !important;
+ }
+
+.container>#content>.sixteen>h1{
+    text-transform: uppercase;
+    text-align: center;
+-webkit-mask-image: url(http://virginiasvintagehire.co.uk/wp-content/themes/golden/assets/img/mask.png);
+    
+}
+
+
+.container>#content>.sixteen>h1>b{
+color: #51667f;
+    font-family: oswald !important;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 45px;
+    margin-bottom: 14px;
+    letter-spacing: 1px;
+} 
+
+#gallery-2 img{
+     border-width: 0 !important;
+}
+
+
+
